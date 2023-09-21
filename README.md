@@ -37,7 +37,7 @@ I demonstrate how to conduct a regression analysis in Excel. I show you how to a
 
 ## Calculate Your Maintenance Calories Using Regression
 In this video, I will show you how to calculate your individual maintenance calories using a regression in Excel. You do not have to worry about fancy stats, as the Excel file will do all the magic for you. The file is available to download for free. You find many general-purpose calculators online that determine your maintenance calories. A very simple formula refers to your weight in pounds times 15. These general-purpose calculators are not very useful. My approach uses your individual data on weight and calorie consumption to predict your maintenance calories.
-### [YouTube Video 4](https://youtu.be/o6eKG-IbCoc).
+### [YouTube Video 4](https://youtu.be/o6eKG-IbCoc)
 ### Folder: MaintenanceCalories
 
 ## How to create and write Excel files using Python?

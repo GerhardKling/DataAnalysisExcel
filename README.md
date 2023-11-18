@@ -46,4 +46,33 @@ This video provides a brief introduction to the xlsxwriter module. This module c
 ### [YouTube Video 5](https://youtu.be/7Xbng03uKMo)
 ### Folder: xlsxwriter
 
+## Event Study: Main Ideas
+We introduce Event Studies, which are used to quantify the impact of events on firms' value. We discuss estimation and event windows as well as normal returns. The latter is based on the constant-mean-return model and the market model. 
+
+### [YouTube Video 6](https://youtu.be/ZJRaON2kHJ4)
+### Folder: EventStudy
+
+## Event Study: Measuring Anormal Returns
+We measure abnormal returns and derive their statistical properties. This video goes deep into the theory of event studies. Enjoy more than 40 minutes of content with lots of vectors and matrices.
+
+### [YouTube Video 7](https://youtu.be/IQ8O_YrD8R4)
+### Folder: EventStudy
+
+## Event Study: Test Statistics
+This video derives confidence intervals for cumulated abnormal returns (CARs), which are used in event-studies. We discuss the underlying theory in detail and implement the theory using Excel.
+
+### [YouTube Video 8](https://youtu.be/fySSRdyptIw)
+### Folder: EventStudy
+
+## Event Study: Excel Model
+This video discusses the implementation of a constant-mean return model in Excel. We calculate confidence intervals for cumulated abnormal returns (CARs), which are used in event studies. 
+
+### [YouTube Video 9](https://youtu.be/g0dakfG0-hs)
+### Folder: EventStudy
+
+
+
+
+
+
 
